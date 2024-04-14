@@ -1,0 +1,13 @@
+body{background-color: rgb(247, 241, 217);
+    color: rgb(89, 89, 89);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    h1{font-size: xx-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    h5{text-align: center;
+    font-style: oblique;}
+    h6{font-size: larger;margin-bottom: 0;}
+    ol{margin-top: 5;}
+    img{border: 2px solid rgb(2, 2, 2);
+    padding: 3px;
+    margin: 5px;
+    display: block;margin: auto;}
+    iframe{margin: auto;display: block;}
